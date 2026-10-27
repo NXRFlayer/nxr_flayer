@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nxrflayer.com/sitemap.xml
+Sitemap: https://nxrflayer.github.io/nxr_flayer/sitemap.xml
